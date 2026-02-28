@@ -2,7 +2,7 @@
 /**
  * @file main.cpp
  * @brief FSR-based force data acquisition system - main application
- * @author Sumit
+ * @author Sumit kumar singh
  * @date 2026-02-28
  * @version 1.0.0
  * @license MIT
